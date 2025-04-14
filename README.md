@@ -65,3 +65,13 @@ VALUES ('user1', '12345'),
 		('user2','12345')
 
 ```
+
+## Form Authentication
+![image](https://github.com/user-attachments/assets/34f51f22-8a7f-48a0-b2fe-ec24c07c5b4e)
+
+## Window Authentication
+![image](https://github.com/user-attachments/assets/dfcfe4c9-c379-4a0c-ab0d-c4f1fd79a6d3)
+![image](https://github.com/user-attachments/assets/3394248a-a358-4db4-b843-ccef99929567)
+
+
+
